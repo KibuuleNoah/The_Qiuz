@@ -1,0 +1,49 @@
+[{
+  "question":"what is your favorite programming language",
+  "optn1":"Python",
+  "optn2":"C",
+  "optn3":"Java-",
+  "optn4":"Ruby",
+  "answer":"Python"
+  },
+  {
+  "question":"what is your worst programming language",
+  "optn1":"Python",
+  "optn2":"C",
+  "optn3":"Java",
+  "optn4":"Ruby",
+  "answer":"Java"
+  },
+  {
+  "question":"what is your modurate programming language",
+  "optn1":"Python",
+  "optn2":"C",
+  "optn3":"Java",
+  "optn4":"Ruby",
+  "answer":"C"
+  },
+  {
+  "question":"who is your best freind",
+  "optn1":"computer",
+  "optn2":"van",
+  "optn3":"tim",
+  "optn4":"bob",
+  "answer":"computer"
+  },
+  {
+  "question":"How old is Noah",
+  "optn1":"19",
+  "optn2":"13",
+  "optn3":"17",
+  "optn4":"33",
+  "answer":"17"
+  },
+  {
+  "question":"Who is Noah",
+  "optn1":"programmer",
+  "optn2":"teacher",
+  "optn3":"driver",
+  "optn4":"thief",
+  "answer":"programmer"
+  }
+]
