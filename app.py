@@ -5,6 +5,11 @@ app = Flask(__name__)
 
 @app.route("/")
 def welcome():
+    return render_template("welcome.html")
+
+
+@app.route("/play")
+def play():
     return render_template("index.html")
 
 

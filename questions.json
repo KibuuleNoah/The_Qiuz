@@ -1,49 +1,123 @@
-[{
-  "question":"what is your favorite programming language",
-  "optn1":"Python",
-  "optn2":"C",
-  "optn3":"Java-",
-  "optn4":"Ruby",
-  "answer":"Python"
+[
+  {
+    "question": "What is the most widely used programming language for web development?",
+    "optn1": "Java",
+    "optn2": "C++",
+    "optn3": "Python",
+    "optn4": "JavaScript",
+    "answer": "JavaScript"
   },
   {
-  "question":"what is your worst programming language",
-  "optn1":"Python",
-  "optn2":"C",
-  "optn3":"Java",
-  "optn4":"Ruby",
-  "answer":"Java"
+    "question": "Which programming language is often used for data analysis and machine learning?",
+    "optn1": "Java",
+    "optn2": "C++",
+    "optn3": "Python",
+    "optn4": "Ruby",
+    "answer": "Python"
   },
   {
-  "question":"what is your modurate programming language",
-  "optn1":"Python",
-  "optn2":"C",
-  "optn3":"Java",
-  "optn4":"Ruby",
-  "answer":"C"
+    "question": "What is the primary function of a version control system like Git?",
+    "optn1": "Database management",
+    "optn2": "Code compilation",
+    "optn3": "Collaborative coding",
+    "optn4": "Code version tracking",
+    "answer": "Code version tracking"
   },
   {
-  "question":"who is your best freind",
-  "optn1":"computer",
-  "optn2":"van",
-  "optn3":"tim",
-  "optn4":"bob",
-  "answer":"computer"
+    "question": "Which data structure uses the Last In, First Out (LIFO) principle?",
+    "optn1": "Queue",
+    "optn2": "Stack",
+    "optn3": "Linked List",
+    "optn4": "Array",
+    "answer": "Stack"
   },
   {
-  "question":"How old is Noah",
-  "optn1":"19",
-  "optn2":"13",
-  "optn3":"17",
-  "optn4":"33",
-  "answer":"17"
+    "question": "What does API stand for in the context of web development?",
+    "optn1": "Advanced Programming Interface",
+    "optn2": "Application Programming Interface",
+    "optn3": "Automated Program Integration",
+    "optn4": "All-Purpose Interface",
+    "answer": "Application Programming Interface"
   },
   {
-  "question":"Who is Noah",
-  "optn1":"programmer",
-  "optn2":"teacher",
-  "optn3":"driver",
-  "optn4":"thief",
-  "answer":"programmer"
+    "question": "In Python, what is the process of packaging and distributing code to be shared with others called?",
+    "optn1": "Packaging",
+    "optn2": "Distribution",
+    "optn3": "Pack-and-Ship",
+    "optn4": "Packaging and Distribution",
+    "answer": "Packaging and Distribution"
+  },
+  {
+    "question": "Which programming language is often used for building mobile applications on the Android platform?",
+    "optn1": "Java",
+    "optn2": "C++",
+    "optn3": "Swift",
+    "optn4": "Python",
+    "answer": "Java"
+  },
+  {
+    "question": "What is the term for a named block of code that can be called multiple times in a program?",
+    "optn1": "Variable",
+    "optn2": "Statement",
+    "optn3": "Function",
+    "optn4": "Procedure",
+    "answer": "Function"
+  },
+  {
+    "question": "Which data structure uses the First In, First Out (FIFO) principle?",
+    "optn1": "Queue",
+    "optn2": "Stack",
+    "optn3": "Linked List",
+    "optn4": "Array",
+    "answer": "Queue"
+  },
+  {
+    "question": "What is the primary purpose of a constructor in object-oriented programming?",
+    "optn1": "Destroy an object",
+    "optn2": "Create an object",
+    "optn3": "Modify an object",
+    "optn4": "Hide an object",
+    "answer": "Create an object"
+  },
+  {
+    "question": "Which programming language is often used for game development?",
+    "optn1": "Java",
+    "optn2": "C++",
+    "optn3": "Python",
+    "optn4": "Ruby",
+    "answer": "C++"
+  },
+  {
+    "question": "What does SQL stand for in the context of databases?",
+    "optn1": "Structured Query Language",
+    "optn2": "Simple Query Language",
+    "optn3": "Sequential Query Language",
+    "optn4": "Structured Query Logic",
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which programming language is known for its use in web scraping and data extraction?",
+    "optn1": "Java",
+    "optn2": "C++",
+    "optn3": "Python",
+    "optn4": "Ruby",
+    "answer": "Python"
+  },
+  {
+    "question": "What is the term for a conditional statement that allows different code paths based on a true or false condition?",
+    "optn1": "Iteration",
+    "optn2": "Switch statement",
+    "optn3": "If-else statement",
+    "optn4": "Assignment statement",
+    "answer": "If-else statement"
+  },
+  {
+    "question": "In object-oriented programming, what is encapsulation?",
+    "optn1": "The process of combining data and methods into a single unit",
+    "optn2": "The process of defining classes",
+    "optn3": "The process of data hiding",
+    "optn4": "The process of code optimization",
+    "answer": "The process of combining data and methods into a single unit"
   }
 ]
+
